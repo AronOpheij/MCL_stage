@@ -1,7 +1,0 @@
-setup.py
-mcl_stage/__init__.py
-mcl_stage/mcl_stage.py
-mcl_stage.egg-info/PKG-INFO
-mcl_stage.egg-info/SOURCES.txt
-mcl_stage.egg-info/dependency_links.txt
-mcl_stage.egg-info/top_level.txt
